@@ -1,0 +1,8 @@
+{
+    "name": "FirstTry",
+    "description": "My first attempt at a QlikSense extension",
+    "icon": "extension",
+    "type": "visualization",
+    "version": "0.1",
+    "author": "Gustav Wennerblom"
+}
